@@ -41,12 +41,6 @@ The DDES method was first validated on a 2D planar truss benchmark, reproducing 
 
 ![Drag Comparison](figures/drag_comparison.png)
 
-### DDES Transient Behaviour
-
-The 130-second DDES simulation (3 days 17 hours on HPC) captures the oscillatory drag behaviour caused by vortex shedding. The zoomed view shows the quasi-periodic fluctuations in the statistically steady region.
-
-![Time History](figures/drag_time_history.png)
-
 ## Methodology
 
 Three model fidelities were compared on identical domains:
