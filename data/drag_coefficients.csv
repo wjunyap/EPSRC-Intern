@@ -1,0 +1,5 @@
+method,drag_coefficient,source
+LES,2.87,Nakayama (2009)
+DDES,3.1,This study
+RANS,2.36,This study
+Porous Volume,1.85,This study
